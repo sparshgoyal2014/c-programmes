@@ -1,0 +1,3 @@
+F:/CProgrammes/takingStringInput/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/CProgrammes/takingStringInput/cmake-build-debug/CMakeFiles/takingStringInput.dir
+F:/CProgrammes/takingStringInput/cmake-build-debug/CMakeFiles/rebuild_cache.dir

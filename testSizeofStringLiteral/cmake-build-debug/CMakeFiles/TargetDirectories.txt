@@ -1,0 +1,3 @@
+F:/CProgrammes/testSizeofStringLiteral/cmake-build-debug/CMakeFiles/testSizeofStringLiteral.dir
+F:/CProgrammes/testSizeofStringLiteral/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/CProgrammes/testSizeofStringLiteral/cmake-build-debug/CMakeFiles/rebuild_cache.dir

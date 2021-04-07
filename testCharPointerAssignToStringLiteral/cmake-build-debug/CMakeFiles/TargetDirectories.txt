@@ -1,0 +1,3 @@
+F:/CProgrammes/testCharPointerAssignToStringLiteral/cmake-build-debug/CMakeFiles/testCharPointerAssignToStringLiteral.dir
+F:/CProgrammes/testCharPointerAssignToStringLiteral/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/CProgrammes/testCharPointerAssignToStringLiteral/cmake-build-debug/CMakeFiles/rebuild_cache.dir
